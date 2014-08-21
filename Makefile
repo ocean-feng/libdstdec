@@ -1,4 +1,4 @@
-# create by hyfeng
+# create by ocean_feng
 # Target: For DST Decode to DSD data
 
 CROSS_COMPILE=mipsel-linux-

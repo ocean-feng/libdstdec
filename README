@@ -8,3 +8,18 @@ How to compile
 	compile for x86, unset CROSS_COMPILE
 	
 	2. execute make
+	
+
+Refer:
+1. Migrating Win32 C/C++ applications to Linux on POWER, Part 1: Process, thread, and shared memory services
+http://www.ibm.com/developerworks/systems/library/es-MigratingWin32toLinux.html
+2. Migrate Win32 C/C++ application to Linux on POWER, Part 2: Mutexes
+http://www.ibm.com/developerworks/systems/library/es-win32linux.html
+3. Migrate Win32 C/C++ applications to Linux on POWER, Part 3: Semaphores
+http://www.ibm.com/developerworks/systems/library/es-win32linux-sem.html
+4. 将 Windows IPC 应用移植到 Linux，第 1 部分: 进程和线程
+http://www.ibm.com/developerworks/cn/linux/l-ipc2lin1.html
+5. 将 Windows IPC 应用程序移植到 Linux，第 2 部分: 信号量和事件
+http://www.ibm.com/developerworks/cn/linux/l-ipc2lin2.html
+6. 移植windows下的VC程序到Linux下的gcc环境
+http://blog.sqlitedeveloper.com/content/%E7%A7%BB%E6%A4%8Dwindows%E4%B8%8B%E7%9A%84vc%E7%A8%8B%E5%BA%8F%E5%88%B0linux%E4%B8%8B%E7%9A%84gcc%E7%8E%AF%E5%A2%83
