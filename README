@@ -1,0 +1,10 @@
+This is a linux lib for decode dst data to dsd.
+
+How to compile
+	1. Update the CROSS_COMPILE in Makefile.
+	For example: 
+	compile for mips, set CROSS_COMPILE to mipsel-linux-
+	compile for arm, set CROSS_COMPILE to arm-none-linux-gnueabi-
+	compile for x86, unset CROSS_COMPILE
+	
+	2. execute make
